@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<odoo>
-    <template id="na_stock_picking_report_inherit" inherit_id="stock.report_picking">
-        <xpath expr="//p[@t-field='o.scheduled_date']" position="attributes">
-            <attribute name="t-options">{&quot;widget&quot;: &quot;date&quot;}</attribute>
-        </xpath>
-    </template>
-</odoo>
