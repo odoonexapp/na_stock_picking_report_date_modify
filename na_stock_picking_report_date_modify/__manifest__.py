@@ -1,7 +1,7 @@
 {
-    'name': 'Nexapp order date modified',
-    'summary': 'Removed the hour from the shipping date and the deadline',
-    'description': """Added the supplier DDT Number and date""",
+    'name': 'Nexapp Report order date',
+    'summary': 'Removed the hour from the shipping date in the report print',
+    'description': """Removed the hour from the shipping date in the report print""",
     'version': '14.0.1.1',
     'images': ['images/date_screenshot.png'],
     'depends': [
