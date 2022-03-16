@@ -1,5 +1,5 @@
 {
-    'name': 'Nexapp Report order date',
+    'name': 'Nexapp Report Order Date',
     'summary': 'Removed the hour from the shipping date in the report print',
     'description': """Removed the hour from the shipping date in the report print""",
     'version': '14.0.1.1',
